@@ -163,7 +163,7 @@ This project was created strictly for:
 
 # 👨‍💻 Author
 
-### Surjeet Singh Gill
+### Surjeet Singh Gill 
 
 ---
 
@@ -175,4 +175,4 @@ This project was created strictly for:
 - Python automation scripts
 - Professional audit reporting
 - GitHub project documentation
->>>>>>> d74f8ef (Improved professional README formatting)
+
