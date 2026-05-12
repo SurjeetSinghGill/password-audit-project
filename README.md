@@ -1,4 +1,3 @@
-=======
 # 🔐 Password Audit & Hash Cracking Project
 
 > Simulated post-breach password auditing environment using offensive security tools and custom Python automation.
