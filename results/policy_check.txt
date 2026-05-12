@@ -1,0 +1,78 @@
+============================================================
+PASSWORD POLICY COMPLIANCE CHECK
+============================================================
+
+alice: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No special character
+  - Contains common pattern
+
+bob: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No lowercase letter
+  - No special character
+  - Contains common pattern
+
+charlie: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No special character
+  - Contains common pattern
+
+diana: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No number
+  - No special character
+  - Contains common pattern
+
+eve: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No number
+  - No special character
+  - Contains common pattern
+
+frank: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No special character
+  - Contains common pattern
+
+grace: CRITICAL
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No special character
+  - Contains common pattern
+
+henry: WEAK
+  - Too short (min 12 chars)
+  - No uppercase letter
+  - No special character
+
+ivan: MEDIUM
+  - Too short (min 12 chars)
+  - No special character
+
+julia: STRONG
+  - Too short (min 12 chars)
+
+kevin: STRONG
+  - Too short (min 12 chars)
+
+laura: STRONG
+  - Too short (min 12 chars)
+
+mike: VERY STRONG
+
+nina: STRONG
+  - Too short (min 12 chars)
+
+oscar: WEAK
+  - No uppercase letter
+  - No number
+  - No special character
+
+paula: VERY STRONG

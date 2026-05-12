@@ -1,0 +1,31 @@
+==================================================
+PASSWORD AUDIT RESULTS
+==================================================
+Total accounts:     16
+Passwords cracked:  12 (75.0%)
+Passwords secure:   4 (25.0%)
+
+[CRACKED]
+  alice: password123 (length: 11)
+  bob: 123456 (length: 6)
+  charlie: welcome1 (length: 8)
+  diana: qwerty (length: 6)
+  eve: letmein (length: 7)
+  frank: monkey123 (length: 9)
+  grace: password1 (length: 9)
+  henry: abc123 (length: 6)
+  ivan: Summer2024 (length: 10)
+  julia: Dragon@99 (length: 9)
+  kevin: Laptop#01 (length: 9)
+  laura: March2024! (length: 10)
+
+[NOT CRACKED]
+  mike: [SECURE] (length: 12)
+  nina: [SECURE] (length: 11)
+  oscar: [SECURE] (length: 21)
+  paula: [SECURE] (length: 13)
+
+RISK BREAKDOWN:
+  Critical (common passwords): 8 accounts
+  Medium (weak complexity):    4 accounts
+  Low (strong passwords):      4 accounts
